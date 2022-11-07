@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D9C3DA75-B6EB-4B93-919E-149EE7E94728}|Lesson1MyAspNetCoreProject.Web With Kestrel">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1MyAspNetCoreProject.Web/Controllers/OrnekController.cs">
+    <Files>
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/OrnekController.cs" Line="13" Column="31" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek Controller View/Index.cshtml" Line="8" Column="21" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek/Index2.cshtml" Line="8" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson1MyAspNetCoreProject" expanded="True">
+            <Node name="Lesson1MyAspNetCoreProject.Web" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrnekController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Ornek" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson1MyAspNetCoreProject.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

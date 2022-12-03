@@ -1,38 +1,60 @@
 ﻿<Properties StartupConfiguration="{D9C3DA75-B6EB-4B93-919E-149EE7E94728}|Lesson1MyAspNetCoreProject.Web With Kestrel">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1MyAspNetCoreProject.Web/Controllers/OrnekController.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson1MyAspNetCoreProject.Web/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/OrnekController.cs" Line="13" Column="31" />
-      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek Controller View/Index.cshtml" Line="8" Column="21" />
-      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek/Index2.cshtml" Line="8" Column="25" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/ExampleController.cs" Line="5" Column="36" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Index.cshtml" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/_ViewImports.cshtml" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/_ViewStart.cshtml" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/HomeController.cs" Line="21" Column="6" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Controllers/OrnekController.cs" Line="10" Column="23" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Home/Index.cshtml" Line="25" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Example/Index2.cshtml" Line="7" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Shared/ExampleLayout.cshtml" Line="9" Column="7" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Example/Index.cshtml" Line="18" Column="40" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Shared/_Layout.cshtml" Line="39" Column="4" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Shared/_ViewImports.cshtml" Line="2" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Views/Ornek/Index2.cshtml" Line="1" Column="1" />
+      <File FileName="Lesson1MyAspNetCoreProject.Web/Models/ErrorViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lesson1MyAspNetCoreProject" expanded="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="Lesson1MyAspNetCoreProject.Web" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="OrnekController.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
               </Node>
               <Node name="Views" expanded="True">
+                <Node name="Example" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Ornek" expanded="True" />
-                <Node name="Shared" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Lesson1MyAspNetCoreProject.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lesson1MyAspNetCoreProject.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

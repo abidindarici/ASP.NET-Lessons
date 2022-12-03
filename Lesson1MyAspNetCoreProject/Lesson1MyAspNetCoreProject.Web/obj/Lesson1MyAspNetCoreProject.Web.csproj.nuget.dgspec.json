@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj": {}
+    "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/ASP.NET-Lessons/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj": {}
   },
   "projects": {
-    "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj": {
+    "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/ASP.NET-Lessons/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj",
+        "projectUniqueName": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/ASP.NET-Lessons/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj",
         "projectName": "Lesson1MyAspNetCoreProject.Web",
-        "projectPath": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj",
+        "projectPath": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/ASP.NET-Lessons/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/Lesson1MyAspNetCoreProject.Web.csproj",
         "packagesPath": "/Users/abidindarici/.nuget/packages/",
-        "outputPath": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/obj/",
+        "outputPath": "/Users/abidindarici/Documents/Projeler/ASP.NET ÇALIŞMALARIM/ASP.NET-Lessons/Lesson1MyAspNetCoreProject/Lesson1MyAspNetCoreProject.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abidindarici/.nuget/NuGet/NuGet.Config"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
